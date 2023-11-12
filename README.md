@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://twitter.com/martina_zurli](https://twitter.com/martina_zurli)
 
-- ⚡ Fun fact **I love travelling so much I usually but a flight ticket for my next flight while I am at the airport waiting to board the flight that is going to take me home from the trip just ended!**
+- ⚡ Fun fact **I love travelling so much I usually buy a flight ticket for my next trip while I am at the airport waiting to board the flight that is going to take me home from the trip just ended!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
