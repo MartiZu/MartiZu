@@ -26,4 +26,4 @@
 
 ![MartiZu's Stats](https://github-readme-stats.vercel.app/api?username=MartiZu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-(https://www.codewars.com/users/MartiZu/badges/large)
+[CodeWars](https://www.codewars.com/users/MartiZu/badges/large)
