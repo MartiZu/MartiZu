@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Martina, I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. 
+This page is for me to display some of the projects I have worked on and that I am proud of. 
+
+![MartiZu's Stats](https://github-readme-stats.vercel.app/api?username=MartiZu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 **MartiZu/MartiZu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
