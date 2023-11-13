@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to work also on my Travel tips App [Travel tips App](https://github.com/MartiZu/Travel-Tips-API)
 
-- 🤝 I’m looking to learn more about React, I started with some small projects [Image Carousel](https://github.com/MartiZu/Carousel-React)
+- 🤝 I’m looking to learn more about React, I started with some small projects [Image Carousel](https://github.com/MartiZu/Carousel-React), [Note Taking App](https://github.com/MartiZu/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
