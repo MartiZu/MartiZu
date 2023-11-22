@@ -1,4 +1,4 @@
-<img align-"right" src="https://visitor-badge.laobi.icu/badge?page_id=MartiZu.MartiZu" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=F780DD&background=3133FF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Martina" alt="Typing SVG" /></a></h1>
 <h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of.</h3>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
-- 📫 How to reach me - Email is the best: **martina.zurli@gmail.com**
+- 📫 How to reach me - Email is the best: **martina.zurli@gmail.com** 
 
 - 📄 Know about my experiences [https://twitter.com/martina_zurli](https://twitter.com/martina_zurli)
 
