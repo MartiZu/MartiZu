@@ -1,3 +1,5 @@
+<img align-"right" src="https://visitor-badge.laobi.icu/badge?page_id=MartiZu.MartiZu" />
+
 <h1 align="center">Hi 👋, I'm Martina</h1>
 <h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of.</h3>
 
