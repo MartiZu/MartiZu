@@ -1,9 +1,9 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=F780DD&background=3133FF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Martina" alt="Typing SVG" /></a></h1>
 <h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of.</h3>
 
-- 🔭 I’m currently working on [Study Buddy App](https://github.com/MartiZu/Study-Buddy-app)
+- 🔭 I’m currently working on [Study Buddy App](https://github.com/MartiZu/Study-Buddy-app)[App link here](https://study-buddy-app-zeta.vercel.app/login.html)
 
-- 👯 I’m looking to work also on my Travel tips App [Travel tips App](https://github.com/MartiZu/Travel-Tips-API)
+- 👯 I’m looking to work also on my Travel tips App [Travel tips App](https://github.com/MartiZu/Travel-Tips-API)[App link here-work in progress with Next.js](https://travelapp-murex.vercel.app/)
 
 - 🤝 I’m looking to learn more about React, I started with some small projects [Image Carousel](https://github.com/MartiZu/Carousel-React), [Note Taking App](https://github.com/MartiZu/)
 
