@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=F780DD&background=3133FF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Martina" alt="Typing SVG" /></a></h1>
 <h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of.</h3>
 
-- 🔭 I worked with my team on a 1 weeks long project [Study Buddy App Repo](https://github.com/MartiZu/Study-Buddy-app). More details on the README page. Youcan find the App link [here](https://study-buddy-app-zeta.vercel.app/login.html). I added to the project the note taking exstension.
+- 🔭 I worked with my team on a 1 weeks long project [Study Buddy App Repo](https://github.com/MartiZu/Study-Buddy-app). More details on the README page. You can find the App link [here](https://study-buddy-app-zeta.vercel.app/login.html). I added to the project the note taking exstension.
 
 - 👯 I’m also working on my Travel tips App and improve its UI using Next.js as a learning opportunity for me [Travel tips App](https://github.com/MartiZu/Travel-Tips-API) is where you can find the backend repo. The app link is [here](https://travelapp-murex.vercel.app/)
   
