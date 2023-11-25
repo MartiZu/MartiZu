@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
-- 📫 How to reach me - Email is the best: **martina.zurli@gmail.com** 
+- 📫 How to reach me - [Email](martina.zurli@gmail.com) 
 
-- 📄 Know about my experiences [https://twitter.com/martina_zurli](https://twitter.com/martina_zurli)
+- 📄 Learn more about my #100DaysOfCode on [Twitter](https://twitter.com/martina_zurli)
 
 - ⚡ Fun fact **I love travelling so much I usually buy a flight ticket for my next trip while I am at the airport waiting to board the flight that is going to take me home from the trip just ended!**
 
