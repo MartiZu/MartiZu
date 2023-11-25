@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Study Buddy App](https://github.com/MartiZu/Study-Buddy-app)[App link here](https://study-buddy-app-zeta.vercel.app/login.html)
 
-- 👯 I’m looking to work also on my Travel tips App [Travel tips App](https://github.com/MartiZu/Travel-Tips-API)[App link here-work in progress with Next.js](https://travelapp-murex.vercel.app/)
+- 👯 I’m looking to work also on my Travel tips App and improve its UI asuing Next.js as a learning opportunity for me [Travel tips App](https://github.com/MartiZu/Travel-Tips-API)[App link here-work in progress with Next.js](https://travelapp-murex.vercel.app/)
 
-- 🤝 I’m looking to learn more about React, I started with some small projects [Image Carousel](https://github.com/MartiZu/Carousel-React), [Note Taking App](https://github.com/MartiZu/)
+- 🤝 Working with React, I started with some small projects [Image Carousel](https://github.com/MartiZu/Carousel-React)[App link here](https://carousel-react-gamma.vercel.app/), [Flashcard App](https://github.com/MartiZu/)[App link here](https://react-flashcards-app-seven.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
