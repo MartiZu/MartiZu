@@ -1,6 +1,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=F780DD&background=3133FF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Martina" alt="Typing SVG" /></a></h1>
 <h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of.</h3>
 
+I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of waht I have achieved in these past few weeks as all you can see on my profile are projects I have built in a matter of few weeks. I looking forward to land my first job in tech beacuse I know how much more I will grow and learn in the next future. 
+
+## **My profile is testament of my potential and I look forward to continue make it grow!**
+
 - 🔭 I worked with my team on a 1 weeks long project [Study Buddy App Repo](https://github.com/MartiZu/Study-Buddy-app). More details on the README page.
   - You can find the App link [here](https://study-buddy-app-zeta.vercel.app/login.html). I added to the project the note taking exstension.
 
