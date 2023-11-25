@@ -6,9 +6,9 @@
 - 👯 I’m looking to work also on my Travel tips App and improve its UI asuing Next.js as a learning opportunity for me [Travel tips App](https://github.com/MartiZu/Travel-Tips-API)[App link here-work in progress with Next.js](https://travelapp-murex.vercel.app/)
 
 - 🤝 Working with React, I started with some small projects
-  1. [Image Carousel Repo](https://github.com/MartiZu/Carousel-React) Find the link [here](https://carousel-react-gamma.vercel.app/)
+1. [Image Carousel Repo](https://github.com/MartiZu/Carousel-React) Find the link [here](https://carousel-react-gamma.vercel.app/)
 
-  2.[Flashcard App Repo](https://github.com/MartiZu/) Find the link [here](https://react-flashcards-app-seven.vercel.app/)
+2.[Flashcard App Repo](https://github.com/MartiZu/) Find the link [here](https://react-flashcards-app-seven.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
