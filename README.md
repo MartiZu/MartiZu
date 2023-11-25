@@ -3,7 +3,7 @@
 
 - 🔭 I worked with my team on a 1 weeks long project [Study Buddy App Repo](https://github.com/MartiZu/Study-Buddy-app). More details on the README page. Youcan find the App link [here](https://study-buddy-app-zeta.vercel.app/login.html). I added to the project the note taking exstension.
 
-- 👯 I’m also working on my Travel tips App and improve its UI using Next.js as a learning opportunity for me [Travel tips App](https://github.com/MartiZu/Travel-Tips-API) [App link here-work in progress with Next.js](https://travelapp-murex.vercel.app/)
+- 👯 I’m also working on my Travel tips App and improve its UI using Next.js as a learning opportunity for me [Travel tips App](https://github.com/MartiZu/Travel-Tips-API) is where you can find the backend repo. The app link is [here](https://travelapp-murex.vercel.app/)
 
 - 🤝 Working with React, I started with some small projects
 1. [Image Carousel Repo](https://github.com/MartiZu/Carousel-React) Find the link [here](https://carousel-react-gamma.vercel.app/)
