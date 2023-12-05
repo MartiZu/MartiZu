@@ -2,7 +2,7 @@
 <img align="right" alt="coding girl" width="180" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif">
 <h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of.</h3>
 
-I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of waht I have achieved in these past few weeks as all you can see on my profile are projects I have built in a matter of few weeks. I looking forward to land my first job in tech beacuse I know how much more I will grow and learn in the next future. 
+I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of what I have achieved in these past few weeks. On my profile you can see some of my projects and these were all built in the last few weeks as my learning progressed. I am looking forward to land my first job in tech, I know how much more I will grow and learn in the next future and cannot wait for the next challenge!
 
 ## **My profile is testament of my potential and I look forward to continue make it grow!**
 
