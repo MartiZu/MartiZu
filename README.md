@@ -6,11 +6,11 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 
 ## **My profile is testament of my potential and I look forward to continue make it grow!**
 
-- 🔭 I worked with my team on a 1 weeks long project [here](https://study-buddy-app-zeta.vercel.app/login.html). A user-friendly study platform with a successful frontend and backend integration.
+- 🔭 I worked with my team on a 1 weeks long project [link](https://study-buddy-app-zeta.vercel.app/login.html). A user-friendly study platform with a successful frontend and backend integration.
   - You can find the repo [here](https://github.com/MartiZu/Study-Buddy-app).
 
-- 👯 I’m also working on my Travel Diary App and currently working on rebuilding the UI using Next.js, moving away from vanilla JavaScript [link](https://travelapp-murex.vercel.app/](https://travelapp-frontend.vercel.app/).
-  - The app repo is [Travel tips App](https://github.com/MartiZu/Travel-Tips-API)
+- 👯 I’m also working on my Travel Diary App and currently working on rebuilding the UI using Next.js, moving away from vanilla JavaScript [link](https://travelapp-frontend.vercel.app/).
+  - The app repo is [here](https://github.com/MartiZu/Travel-Tips-API)
   
 - 👯 This was my first team project with Next.js, creating an help-dev ticketing system [here](https://help-dev-app.vercel.app/). Find the repo [here](https://github.com/MartiZu/Help-dev-app)
 
