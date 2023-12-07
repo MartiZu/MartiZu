@@ -12,7 +12,8 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 - 👯 I’m also working on my Travel Diary App and currently working on rebuilding the UI using Next.js, moving away from vanilla JavaScript [link](https://travelapp-frontend.vercel.app/).
   - The app repo is [here](https://github.com/MartiZu/Travel-Tips-API)
   
-- 👯 This was my first team project with Next.js, creating an help-dev ticketing system [here](https://help-dev-app.vercel.app/). Find the repo [here](https://github.com/MartiZu/Help-dev-app)
+- 👯 This was my first team project with Next.js, creating an help-dev ticketing system [link](https://help-dev-app.vercel.app/).
+  - The app repo is [here](https://github.com/MartiZu/Help-dev-app)
 
 - 🤝 Working with React, I started with some small projects
   - Find the link [here](https://carousel-react-gamma.vercel.app/) - [Image Carousel Repo](https://github.com/MartiZu/Carousel-React) 
