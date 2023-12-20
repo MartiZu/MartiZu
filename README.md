@@ -1,20 +1,26 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=F780DD&background=3133FF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Martina" alt="Typing SVG" /></a></h1>
 <img align="right" alt="coding chicken" width="220" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif">
-<h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of. <a href="https://youtu.be/I4LBli6b8To">Click here</a>if you want to learn a bit more about me!</h3>
+<h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of. <a href="https://youtu.be/I4LBli6b8To">Click here </a>if you want to learn a bit more about me!</h3>
 
 I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of what I have achieved in these past few weeks. On my profile you can see some of my projects and these were all built in the last few weeks as my learning progressed. I am looking forward to land my first job in tech, I know how much more I will grow and learn in the next future and cannot wait for the next challenge! 
 
 
-## **My profile is testament of my potential and I look forward to continue make it grow!**
+## **My profile is testament of my potential and I look forward to continue making it grow!**
 
 [![Watch the video](https://img.youtube.com/vi/L-WxnATCCro/mqdefault.jpg)](https://youtu.be/L-WxnATCCro) 
-- 🔭 I worked with my team on a 1 weeks long project [link](https://study-buddy-app-zeta.vercel.app/login.html). A user-friendly study platform with a successful frontend and backend integration.
+- 🔭 I worked with my team on a 1 weeks long [project](https://study-buddy-app-zeta.vercel.app/login.html). A user-friendly study platform with a successful frontend and backend integration.
   - You can find the repo [here](https://github.com/MartiZu/Study-Buddy-app).
+ 
+- 🔭 I worked with my team on a 4 weeks long [project](https://land-logic-app-frontend.vercel.app/). We worked with stakeholder from a large financial institution. The team was asked to work on building a mortgage application providing user focused solutions for 2 groups of users: a new buyer and somone looking to remortgage.
+  - You can find the repo [here]( https://github.com/MartiZu/LendLogic-app).
 
-- 👯 I’m also working on my Travel Diary App and currently working on rebuilding the UI using Next.js, moving away from vanilla JavaScript [link](https://travelapp-frontend.vercel.app/).
+- 🔭 After the end of the group project, I decided to continue working on some features implementing a remortgage user timeline, as well as a game/quiz with learning scope for both our user's groups. 
+  - You can find the repo [here](https://github.com/MartiZu/LendLogic-app-extension).
+
+- 👯 I’m also working on my Travel Diary [App](https://travelapp-frontend.vercel.app/) and currently working on rebuilding the UI using Next.js, moving away from vanilla JavaScript. This project is unfinished as I was currently focusing on the final project of the bootcamp.
   - The app repo is [here](https://github.com/MartiZu/Travel-Tips-API)
   
-- 👯 This was my first team project with Next.js, creating an help-dev ticketing system [link](https://help-dev-app.vercel.app/).
+- 👯 This was my first team [project](https://help-dev-app.vercel.app/) with Next.js, creating an help-dev ticketing system.
   - The app repo is [here](https://github.com/MartiZu/Help-dev-app)
 
 - 🤝 Working with React, I started with some small projects
