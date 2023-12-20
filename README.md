@@ -1,8 +1,9 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=24&pause=1000&color=F780DD&background=3133FF00&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Martina" alt="Typing SVG" /></a></h1>
-<img align="right" alt="coding girl" width="180" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif">
-<h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of.</h3>
+<img align="right" alt="coding chicken" width="220" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif">
+<h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of. <a href="https://youtu.be/I4LBli6b8To">Click here</a>if you want to learn a bit more about me!</h3>
 
-I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of what I have achieved in these past few weeks. On my profile you can see some of my projects and these were all built in the last few weeks as my learning progressed. I am looking forward to land my first job in tech, I know how much more I will grow and learn in the next future and cannot wait for the next challenge!
+I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of what I have achieved in these past few weeks. On my profile you can see some of my projects and these were all built in the last few weeks as my learning progressed. I am looking forward to land my first job in tech, I know how much more I will grow and learn in the next future and cannot wait for the next challenge! 
+
 
 ## **My profile is testament of my potential and I look forward to continue make it grow!**
 
