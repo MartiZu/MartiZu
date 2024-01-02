@@ -14,19 +14,25 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 - 🔭 I worked with my team on a 4 weeks long [project](https://land-logic-app-frontend.vercel.app/). We worked with stakeholder from a large financial institution. The team was asked to work on building a mortgage application providing user focused solutions for 2 groups of users: a new buyer and somone looking to remortgage.
   - You can find the repo [here]( https://github.com/MartiZu/LendLogic-app).
 
-- 🔭 After the end of the group project, I decided to continue working on a separate [folder](https://lend-logic-app-extension.vercel.app/) to continue working on some features that I wanted to add to the app, but we did not have time to compelte in the time we had. I worked on implementing a remortgage user timeline, as well as a game/quiz with learning scope for both our user's groups. 
+- 🔭 After the end of the group project, I decided to continue working on the [app](https://lend-logic-app-extension.vercel.app/) to continue implementing some features that I wanted to add to the app, but we did not have time to compelte in the time we had. I worked on implementing a remortgage user timeline, as well as a game/quiz with learning scope for both our user's groups. 
   - You can find the repo [here](https://github.com/MartiZu/LendLogic-app-extension).
+ 
+  ## **Other smaller projects**
 
-- 👯 I’m also working on my Travel Diary [App](https://travelapp-frontend.vercel.app/) and currently working on rebuilding the UI using Next.js, moving away from vanilla JavaScript. This project is unfinished as I was currently focusing on the final project of the bootcamp.
-  - The app repo is [here](https://github.com/MartiZu/Travel-Tips-API)
+- 👯 Travel Diary [App](https://travelapp-frontend.vercel.app/) - currently working on rebuilding the UI using Next.js, moving away from vanilla JavaScript - The repo is [here](https://github.com/MartiZu/Travel-Tips-API)
+    - **NEXT.js, Tailwind**
   
-- 👯 This was my first team [project](https://help-dev-app.vercel.app/) with Next.js, creating an help-dev ticketing system.
-  - The app repo is [here](https://github.com/MartiZu/Help-dev-app)
+- 👯 This was my first team [project](https://help-dev-app.vercel.app/) with Next.js, creating an help-dev ticketing system - The repo is [here](https://github.com/MartiZu/Help-dev-app)
+    - **NEXT.js, Tailwind**
+ 
+- 🤝 Working with React, I started with some small projects such as building a [carousel](https://carousel-react-gamma.vercel.app/) - [Image Carousel Repo](https://github.com/MartiZu/Carousel-React)
+  - **React, CSS**
 
-- 🤝 Working with React, I started with some small projects
-  - Find the link [here](https://carousel-react-gamma.vercel.app/) - [Image Carousel Repo](https://github.com/MartiZu/Carousel-React) 
+- 🤝 I also practiced building a [flashcard](https://react-flashcards-app-seven.vercel.app/) app - [Flashcard App Repo](https://github.com/MartiZu/)
+  - **React, CSS**
 
-  - Find the link [here](https://react-flashcards-app-seven.vercel.app/) - [Flashcard App Repo](https://github.com/MartiZu/) 
+- 🤝 After the bootcamp I decided to work on a recipes [page] to consolidate my styling skills - The repo is [here]
+  - **React, SCSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
