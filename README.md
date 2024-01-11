@@ -4,6 +4,7 @@
 
 I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of what I have achieved in these past few weeks. On my profile you can see some of my projects and these were all built in the last few weeks as my learning progressed. I am looking forward to land my first job in tech, I know how much more I will grow and learn in the next future and cannot wait for the next challenge! 
 
+### Have a look at my [portfolio](https://portfolio-one-sigma-75.vercel.app/) built using React and SCSS.
 
 ## **My profile is testament of my potential and I look forward to continue making it grow!**
 
@@ -30,9 +31,6 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 
 - 🤝 I also practiced building a [flashcard](https://react-flashcards-app-seven.vercel.app/) app - [Flashcard App Repo](https://github.com/MartiZu/)
   - **React, CSS**
-
-- 🤝 After the bootcamp I decided to work on a recipes [page] to consolidate my styling skills - The repo is [here]
-  - **React, SCSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
