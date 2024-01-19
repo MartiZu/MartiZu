@@ -8,6 +8,9 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 
 ## **My profile is testament of my potential and I look forward to continue making it grow!**
 
+<details>
+  <summary>⚙️ Projects</summary>
+
 [![Watch the video](https://img.youtube.com/vi/L-WxnATCCro/mqdefault.jpg)](https://youtu.be/L-WxnATCCro) 
 - 🔭 I worked with my team on a 1 weeks long [project](https://study-buddy-app-zeta.vercel.app/login.html). A user-friendly study platform with a successful frontend and backend integration.
   - You can find the repo [here](https://github.com/MartiZu/Study-Buddy-app).
@@ -33,6 +36,8 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
   - **React, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
+
+</details>
 
 - 📫 How to reach me - [Email](martina.zurli@gmail.com) 
 
