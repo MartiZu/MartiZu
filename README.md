@@ -11,13 +11,17 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 <details>
   <summary>⚙️ Projects</summary>
 
-<details>
-  <summary>Study Buddy</summary>[![Watch the video](https://img.youtube.com/vi/L-WxnATCCro/mqdefault.jpg)](https://youtu.be/L-WxnATCCro) 
+## Study Buddy
+[![Watch the video](https://img.youtube.com/vi/L-WxnATCCro/mqdefault.jpg)](https://youtu.be/L-WxnATCCro) 
 - 🔭 I worked with my team on a 1 weeks long [project](https://study-buddy-app-zeta.vercel.app/login.html). A user-friendly study platform with a successful frontend and backend integration.
-  - You can find the repo [here](https://github.com/MartiZu/Study-Buddy-app).</details>
+  - You can find the repo [here](https://github.com/MartiZu/Study-Buddy-app).
+ 
+## LendLogic
  
 - 🔭 I worked with my team on a 4 weeks long [project](https://land-logic-app-frontend.vercel.app/). We worked with stakeholder from a large financial institution. The team was asked to work on building a mortgage application providing user focused solutions for 2 groups of users: a new buyer and somone looking to remortgage. Watch our recorded [demo](https://www.youtube.com/watch?v=b2MLi2V68e4)
   - You can find the repo [here]( https://github.com/MartiZu/LendLogic-app).
+ 
+## LendLogic extension
 
 - 🔭 After the end of the group project, I decided to continue working on the [app](https://lend-logic-app-extension.vercel.app/) to continue implementing some features that I wanted to add to the app, but we did not have time to compelte in the time we had. I worked on implementing a remortgage user timeline, as well as a game/quiz with learning scope for both our user's groups. 
   - You can find the repo [here](https://github.com/MartiZu/LendLogic-app-extension).
@@ -39,6 +43,8 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 - 👨‍💻 All of my projects are available at [https://github.com/MartiZu](https://github.com/MartiZu)
 
 </details>
+
+## Contacts
 
 - 📫 How to reach me - [Email](martina.zurli@gmail.com) 
 
