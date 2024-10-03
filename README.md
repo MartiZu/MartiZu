@@ -2,11 +2,9 @@
 <img align="right" alt="coding chicken" width="220" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif">
 <h3 align="center">I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer. This page is for me to display some of the projects I have worked on and that I am proud of. <a href="https://youtu.be/I4LBli6b8To">Click here </a>if you want to learn a bit more about me!</h3>
 
-I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). I could not be more proud of what I have achieved in these past few weeks. On my profile you can see some of my projects and these were all built in the last few weeks as my learning progressed. I am looking forward to land my first job in tech, I know how much more I will grow and learn in the next future and cannot wait for the next challenge! 
+I started my coding journey on the 4th of September 2023 with the [School of code Bootcamp](https://www.schoolofcode.co.uk/course). A year later I have now been working as a Junior Backend Developer for 6 months in a great company like Depop and I am amazed by how much I am growing in my career.
 
-### Have a look at my [portfolio](https://portfolio-one-sigma-75.vercel.app/) built using React and SCSS.
-
-## **My profile is testament of my potential and I look forward to continue making it grow!**
+### Have a look at my [portfolio](https://portfolio-one-sigma-75.vercel.app/) built using React and SCSS. While my portfolio is mainly focused on frontend projects from my bootcampt times, I have now gained invaluable first hand backend experience as backend developer. 
 
 <details>
   <summary>⚙️ Projects</summary>
@@ -47,8 +45,6 @@ I started my coding journey on the 4th of September 2023 with the [School of cod
 ## Contacts
 
 - 📫 How to reach me - [Email](martina.zurli@gmail.com) 
-
-- 📄 Learn more about my #100DaysOfCode on [Twitter](https://twitter.com/martina_zurli)
 
 - ⚡ Fun fact `I love travelling so much I usually buy a flight ticket for my next trip while I am at the airport waiting to board the flight that is going to take me home from the trip just ended!`
 
